@@ -1,6 +1,6 @@
 # rostop - 现代化的交互式ROS话题监控TUI
 
-[简体中文](README.md)  |  [English](README.md)
+[简体中文](README_cn.md)  |  [English](README.md)
 
 `rostop` 是一个基于文本用户界面（TUI）的工具，用于实时监控ROS话题。它提供了一个比传统命令行工具（如 `rostopic echo`）更现代、更具交互性的体验，又能在命令行终端中便捷使用而无需桌面环境。  
 

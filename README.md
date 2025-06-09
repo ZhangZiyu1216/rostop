@@ -1,6 +1,6 @@
 # rostop - A Modern, Interactive TUI for Monitoring ROS Topics
 
-[简体中文](README.md)  |  [English](README.md)
+[简体中文](README_cn.md)  |  [English](README.md)
 
 `rostop` is a text-based user interface (TUI) tool for real-time monitoring of ROS topics. It offers a more modern and interactive experience compared to traditional command-line tools (such as `rostopic echo`), while remaining lightweight and usable directly in a terminal without a desktop environment.
 
