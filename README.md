@@ -4,7 +4,7 @@
 
 `rostop` 是一个基于文本用户界面（TUI）的工具，用于实时监控ROS话题。它提供了一个比传统命令行工具（如 `rostopic echo`）更现代、更具交互性的体验，又能在命令行终端中便捷使用而无需桌面环境。  
 
-此外，由于本项目的开发目的是为了在远程SSH连接方式下调试项目，因此同时随附一份远程SSH连接指南，在Ubuntu20.04环境中使用[Tabby](https://github.com/Eugeny/tabby)（非常好用且美观！感谢！）进行配置、连接的过程。
+此外，由于本项目的开发目的是为了在远程SSH连接方式下调试项目，因此同时随附一份[远程SSH连接指南](remote_SSH_guidance/远程SSH配置指南.md)，在Ubuntu20.04环境中使用[Tabby](https://github.com/Eugeny/tabby)（非常好用且美观！感谢！）进行配置、连接的过程。
 ![rostop-菜单界面](image1.png)
 ![rostop-话题界面](image2.png)
 

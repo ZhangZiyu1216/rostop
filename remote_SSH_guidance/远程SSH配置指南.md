@@ -288,7 +288,7 @@ ros_local
 
 **5. 使用VSCode Remote SSH远程编辑代码（可选）**  
 为了避免反复拷贝代码的麻烦，可以使用VSCode的SSH功能远程编辑代码。  
-参见https://developer.aliyun.com/article/1626959教程进行配置即可，唯一的区别是，在填写ssh命令时不用输ip地址，而是：
+参见[该教程](https://developer.aliyun.com/article/1626959)进行配置即可，唯一的区别是，在填写ssh命令时不用输ip地址，而是：
 ```bash
 ssh iusl@iusl-xavier-nx.local
 ```

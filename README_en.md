@@ -4,7 +4,7 @@
 
 `rostop` is a text-based user interface (TUI) tool for real-time monitoring of ROS topics. It offers a more modern and interactive experience compared to traditional command-line tools (such as `rostopic echo`), while remaining lightweight and usable directly in a terminal without a desktop environment.
 
-In addition to its core functionality, this project includes a remote SSH connection guide for debugging in a headless environment. The guide covers configuring and connecting with [Tabby](https://github.com/Eugeny/tabby) on Ubuntu 20.04 (highly recommended for its aesthetics and usability).
+In addition to its core functionality, this project includes a [remote SSH connection guide](remote_SSH_guidance/Remote_SSH_Guide.md) for debugging in a headless environment. The guide covers configuring and connecting with [Tabby](https://github.com/Eugeny/tabby) on Ubuntu 20.04 (highly recommended for its aesthetics and usability).
 ![rostop menu view](image1.png)
 ![rostop topic view](image2.png)
 

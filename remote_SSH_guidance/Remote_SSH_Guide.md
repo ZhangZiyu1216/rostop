@@ -289,7 +289,7 @@ ros_local
 
 **5. Use VSCode Remote SSH for remote code editing (Optional)**  
 To avoid repeatedly copying code, you can use VSCode's SSH feature for remote code editing.  
-Refer to the tutorial at https://developer.aliyun.com/article/1626959 for configuration. The only difference is that when entering the SSH command, do not enter the IP address, but:
+Refer to the [tutorial](https://developer.aliyun.com/article/1626959) for configuration. The only difference is that when entering the SSH command, do not enter the IP address, but:
 ```bash
 ssh iusl@iusl-xavier-nx.local
 ```
